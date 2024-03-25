@@ -1,0 +1,36 @@
+# Ignore all files in node_modules directory
+node_modules/*
+
+# Ignore all files in the build directory
+build/*
+
+# Ignore all files in the dist directory
+dist/*
+
+# Ignore all files in the coverage directory
+coverage/*
+
+# Ignore all files in the .git directory
+.git/*
+
+# Ignore all files in the env directory
+env/*
+
+# Ignore all files with .json extension
+*.json
+
+# Ignore all files with .md extension
+*.md
+
+# Ignore all files with .txt extension
+*.txt
+
+# Ignore all files with .jpg, .jpeg, .png, .gif, .svg extension
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Ignore specific files
+example.js
